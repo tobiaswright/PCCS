@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = PCCS
-build_property.ProjectDir = C:\Users\towrig\dev\sb-csharp\PCCS\
+build_property.ProjectDir = C:\Users\tobia\source\repos\PCCS\

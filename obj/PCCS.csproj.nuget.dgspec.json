@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\towrig\\dev\\sb-csharp\\PCCS\\PCCS.csproj": {}
+    "C:\\Users\\tobia\\Source\\Repos\\PCCS\\PCCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\towrig\\dev\\sb-csharp\\PCCS\\PCCS.csproj": {
+    "C:\\Users\\tobia\\Source\\Repos\\PCCS\\PCCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\towrig\\dev\\sb-csharp\\PCCS\\PCCS.csproj",
+        "projectUniqueName": "C:\\Users\\tobia\\Source\\Repos\\PCCS\\PCCS.csproj",
         "projectName": "PCCS",
-        "projectPath": "C:\\Users\\towrig\\dev\\sb-csharp\\PCCS\\PCCS.csproj",
-        "packagesPath": "C:\\Users\\towrig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\towrig\\dev\\sb-csharp\\PCCS\\obj\\",
+        "projectPath": "C:\\Users\\tobia\\Source\\Repos\\PCCS\\PCCS.csproj",
+        "packagesPath": "C:\\Users\\tobia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tobia\\Source\\Repos\\PCCS\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\towrig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
